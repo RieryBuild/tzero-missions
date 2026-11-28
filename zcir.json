@@ -1,0 +1,9 @@
+{
+  "description": "ZK proof verification layer for cross-chain messages on Zero \u2014 succinct proofs attest every LayerZero packet before execution, so apps inherit trustless security without waiting on slow finality. Testnet pilot.",
+  "image": "https://raw.githubusercontent.com/RieryBuild/tzero-missions/main/zcir.png",
+  "name": "Zero Circuit",
+  "symbol": "ZCIR",
+  "telegram": "",
+  "website": "",
+  "x": ""
+}
